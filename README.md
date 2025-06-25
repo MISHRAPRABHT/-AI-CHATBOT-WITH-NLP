@@ -84,3 +84,4 @@ The chatbot development project has made steady progress, with a functional prot
 
 
 
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/e5fe937e-a39c-4e25-b5e5-b1baffde7651" />
